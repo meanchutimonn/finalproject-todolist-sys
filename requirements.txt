@@ -1,0 +1,7 @@
+fastapi==0.135.2
+uvicorn==0.42.0
+pydantic==2.12.5
+mysql-connector-python>=9.1.0
+python-dotenv==1.2.2
+flet==0.83.1
+requests==2.33.1
